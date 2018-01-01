@@ -9,6 +9,8 @@
     <meta name="description" content="">
     <meta name="author" content="">
 	<meta name="google-site-verification" content="S-Y9elhJYBILXsHFnKM5Mu70buyAE4Abd_hZlDZ5iNM" />
+    <script src="https://use.fontawesome.com/fc86bd12e5.js"></script>
+
     <title><?php bloginfo('name'); ?></title>
 
  
@@ -25,7 +27,7 @@
 
        <!-- Theme CSS -->
     <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>">
-    <!--main.css, bootstrap.css, geopattern.css, starsatnight.css, font-awesome.css-->
+    <!--main.css, bootstrap.css, geopattern.css, starsatnight.css-->
 
 
 </head>

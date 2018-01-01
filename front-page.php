@@ -137,9 +137,9 @@
         </div>
     </section>
 	<img src="<?php echo get_template_directory_uri(); ?>/img/portfolio/bg1.jpg" alt="" style="display:none;">
-    <img src="<?php echo get_template_directory_uri(); ?>/img/portfolio/bg2.jpg" alt="" style="display:none;">
+   <!-- <img src="<?php echo get_template_directory_uri(); ?>/img/portfolio/bg2.jpg" alt="" style="display:none;"> -->
     <img src="<?php echo get_template_directory_uri(); ?>/img/portfolio/bg3.jpg" alt="" style="display:none;">
-    <img src="<?php echo get_template_directory_uri(); ?>/img/portfolio/bg4.jpg" alt="" style="display:none;">
+    <!-- <img src="<?php echo get_template_directory_uri(); ?>/img/portfolio/bg4.jpg" alt="" style="display:none;"> -->
 
 
 <?php get_template_part( 'content', 'modals' ); ?>
