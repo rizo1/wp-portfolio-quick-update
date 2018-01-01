@@ -1,0 +1,7 @@
+/*
+  Theme Name: Cesar Restrepo - Front-End Web Developer
+  Author: Cesar Restrepo
+  Author URI: cesar-restrepo.com
+  Description: Welcome to my portfolio
+  Version: 1.0.0
+*/

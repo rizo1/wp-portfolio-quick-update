@@ -1,0 +1,13 @@
+[22-Sep-2016 14:37:01 UTC] PHP Notice:  Undefined variable: captcha in /var/www/vhosts/cesar-restrepo.com/httpdocs/index.php on line 804
+[22-Sep-2016 14:37:01 UTC] PHP Notice:  Use of undefined constant success - assumed 'success' in /var/www/vhosts/cesar-restrepo.com/httpdocs/index.php on line 806
+[22-Sep-2016 14:39:02 UTC] PHP Notice:  Undefined variable: captcha in /var/www/vhosts/cesar-restrepo.com/httpdocs/index.php on line 804
+[22-Sep-2016 14:39:02 UTC] PHP Notice:  Use of undefined constant success - assumed 'success' in /var/www/vhosts/cesar-restrepo.com/httpdocs/index.php on line 806
+[22-Sep-2016 14:41:00 UTC] PHP Notice:  Undefined variable: captcha in /var/www/vhosts/cesar-restrepo.com/httpdocs/index.php on line 804
+[22-Sep-2016 14:41:00 UTC] PHP Notice:  Use of undefined constant success - assumed 'success' in /var/www/vhosts/cesar-restrepo.com/httpdocs/index.php on line 806
+[22-Sep-2016 14:41:56 UTC] PHP Notice:  Undefined variable: captcha in /var/www/vhosts/cesar-restrepo.com/httpdocs/index.php on line 804
+[22-Sep-2016 14:41:56 UTC] PHP Notice:  Use of undefined constant success - assumed 'success' in /var/www/vhosts/cesar-restrepo.com/httpdocs/index.php on line 806
+[22-Sep-2016 14:42:00 UTC] PHP Notice:  Undefined variable: captcha in /var/www/vhosts/cesar-restrepo.com/httpdocs/index.php on line 804
+[22-Sep-2016 14:42:00 UTC] PHP Notice:  Use of undefined constant success - assumed 'success' in /var/www/vhosts/cesar-restrepo.com/httpdocs/index.php on line 806
+[22-Sep-2016 14:45:13 UTC] PHP Notice:  Undefined variable: captcha in /var/www/vhosts/cesar-restrepo.com/httpdocs/index.php on line 804
+[22-Sep-2016 14:45:13 UTC] PHP Notice:  Use of undefined constant success - assumed 'success' in /var/www/vhosts/cesar-restrepo.com/httpdocs/index.php on line 806
+[11-Jan-2017 15:56:07 UTC] PHP Fatal error:  Call to undefined function get_header() in /var/www/vhosts/cesar-restrepo.com/httpdocs/wp-content/themes/cr_portfolio/index.php on line 1
